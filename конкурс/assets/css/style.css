@@ -14,6 +14,19 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.company__img:hover {
+    width: 110%;
+    height: 110%;
+}
+
+
+
+.examples__item:hover {
+    width: 107%;
+}
+
+
+
 .container {
     width: 1140px;
     margin: 0 auto;
